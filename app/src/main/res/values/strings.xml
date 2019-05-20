@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KommuParking</string>
+
+
+    <string-array name="models">
+        <item>Hatchback</item>
+        <item>Sedank</item>
+        <item>SUV</item>
+        <item>Convertable</item>
+    </string-array>
+</resources>
