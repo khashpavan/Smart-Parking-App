@@ -3,7 +3,7 @@ App with Automatic Fare Counting
 SYSTEM FOR AUTOMATED SMART PARKING
 REPORT
 
-TO DO              : -    Design a system for automated car parking system.
+TO DO              : -    Design a system for automated car parking system App.
 ALGORITHM   : -   1.The idea of this working model  was taken from  FCFS , pipelining and even the shortest path .
 
 
